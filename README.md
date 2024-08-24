@@ -16,3 +16,14 @@ In this repository, there's only first part of one of my responsibilities, that 
 
 But as i had no idea about game development when i was developing this game, i ended up having a lot of difficulties.
 And as my group also had the same difficulties developing their parts, we decided to change whole game.
+
+# Other Versions
+
+### Look the Branches!!!!!
+
+<a href="https://github.com/ViniSantos09/Development_LostOcean/tree/oldVersion">OldVersion</a>
+
+<a href="https://github.com/ViniSantos09/Development_LostOcean/tree/oldVersion_2.0">OldVersion 2.0</a>
+
+<a href="https://github.com/ViniSantos09/Development_LostOcean/tree/firstPrototype_Character(base)">Character(base): First Prototype</a>
+
